@@ -113,8 +113,9 @@
     .role2{
         display: inline;
     }
-    .typed-cursor{
+    span.typed-cursor{
         opacity: 0;
+        margin-left:-1rem;
     }
 }
 .hero_section_subheading{
